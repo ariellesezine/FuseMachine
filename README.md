@@ -14,7 +14,7 @@ Make sure you have Python installed. Then install the required dependencies usin
 bash
 pip install -r requirements.txt
 
-### How to Run
+### How to Run locally
 Start the FastAPI Backend:
 bash
 uvicorn app.main:app --reload
