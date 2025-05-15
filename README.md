@@ -25,3 +25,6 @@ streamlit run ui/app.py
 
 Open the Application:
 Go to http://localhost:8501 in your browser to use the calculator.
+
+### link for a demonstrative video
+https://drive.google.com/file/d/1LPIgyLWRXYfnOaynIjIPFJ8_yBZfZEZg/view?usp=drive_link
